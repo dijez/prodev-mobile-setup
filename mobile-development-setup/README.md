@@ -26,3 +26,17 @@ Android: Install from the Google Play Store.
 iOS: Install from the Apple App Store.
 Open the Expo Go app on your device.
 Create a new account or log in if you already have one.
+
+
+## Run and Test Your Application
+
+### Start the Expo development server with:
+- npx expo start
+
+For iOS Devices: Scan the QR code in the terminal using your phone’s Camera app.
+For Android Devices: Scan the QR code using the Expo Go app.
+
+### Reset the Application
+npm run reset-project
+
+after the above was ran a /app-example can created, everything under the /app was moved into it and a new /app was created  
