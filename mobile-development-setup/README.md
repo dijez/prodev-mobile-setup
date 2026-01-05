@@ -39,4 +39,4 @@ For Android Devices: Scan the QR code using the Expo Go app.
 ### Reset the Application
 npm run reset-project
 
-after the above was ran a /app-example can created, everything under the /app was moved into it and a new /app was created  
+after the above was ran a /app-example can creted, everything under the /app was moved into it and a new /app was created  
