@@ -102,7 +102,7 @@ export default function Index() {
     </View>
 
     <View style={{alignItems: "center", paddingVertical: 20}}>
-      <Text style={{color: "white"}}>continue to home</Text>
+      <Text style={{color: "white"}}>Continue to home</Text>
     </View>
   </View>
     </ImageBackground>
